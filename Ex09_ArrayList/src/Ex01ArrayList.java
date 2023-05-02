@@ -43,7 +43,7 @@ public class Ex01ArrayList {
 		
 		//7. 모든 요소 삭제
 		a1.clear();
-		System.out.println(a1.size());// 0개 나옴 
+		System.out.println(a1.size());// -> 0개 나옴 
 		
 		
 		

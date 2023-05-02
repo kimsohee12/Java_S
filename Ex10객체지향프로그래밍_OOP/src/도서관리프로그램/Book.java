@@ -12,7 +12,7 @@ public class Book {
 		this.price = price;
 		this.writer = writer;
 	}
-	// getter
+	// getter생성
 	public String getTitle() {
 		return title;
 	}
